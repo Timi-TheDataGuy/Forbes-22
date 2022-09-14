@@ -12,7 +12,6 @@ A new development came up in 2018 as Forbes introduced Philanthropy Score as an 
 - Conclusion
 
 # Data Gathering & Transformation
-The data came in handy from the Maverick Data Analysis Challenge website in an Excel format. For easy analysis, the data needed to be transformed, and this was done with Power Query Editor. Here is the Power Query Script to CleanForbesData.pq
-
+The data came in handy from the Maverick Data Analysis Challenge website in an Excel format. For easy analysis, the data needed to be transformed, and this was done with Power Query Editor. Here is the Power Query Script to 
 # Report Requirement
 
